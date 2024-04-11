@@ -1,0 +1,17 @@
+inicializamos 
+git config --global user.email " tu correo "
+git config --global usdr.name " tu nombre de git"
+
+inicializar la carpeta dentro de tecweb2
+git init 
+--adicionamos el archivo pasosGit.txt
+git add pasosGit.txt
+-Realizamos un commit de cambio
+git commit -m "comentario"
+- Branch
+git branch -M main
+-Adicionar el parametro de origen
+git  remote add origin git remote add origin https://github.com/HeynerTapia/tecweb2.doc.git
+
+Vamos por mas en repositorio 
+
